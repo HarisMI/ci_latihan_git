@@ -15,7 +15,6 @@ class Home extends CI_Controller
             $email = htmlspecialchars($this->input->post('email'));
             $password = $this->input->post('password');
 
-            //basuindmviodsjvnko
             echo "Email anda : " . $email;
             echo "<br>";
             echo "Password anda : " . $password;
