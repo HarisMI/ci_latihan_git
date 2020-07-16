@@ -10,7 +10,7 @@ class Home extends CI_Controller {
 
 		if ($this->form_validation->run() === FALSE) {
 			$this->load->view('login');
-		} else {
+} else {
 			$email = htmlspecialchars($this->input->post('email'));
 			$password = $this->input->post('password');
 
