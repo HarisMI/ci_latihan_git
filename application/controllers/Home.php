@@ -19,4 +19,3 @@ class Home extends CI_Controller {
 			echo "Password anda : " . $password;
 		}
 	}
-}
