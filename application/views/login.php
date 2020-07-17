@@ -52,11 +52,6 @@
 												<input type="checkbox" class="custom-control-input" id="customCheck">
 												<label class="custom-control-label" for="customCheck">Remember Me</label>
 											</div>
-											<ul class="list-group">
-												<li class="list-group-item active">Text</li>
-												li*9
-												<li class="list-group-item disabled" aria-disabled="true">Disabled item</li>
-											</ul>
 										</div>
 										<button type="submit" class="btn btn-primary btn-user d-block w-100">Login</button>
 										<hr>
