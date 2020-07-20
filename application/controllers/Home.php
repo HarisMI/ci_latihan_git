@@ -18,6 +18,7 @@ class Home extends CI_Controller
             echo "Email anda : " . $email;
             echo "<br>";
             echo "Password anda : " . $password;
+			///diedit kuaing
         }
     }
 }
